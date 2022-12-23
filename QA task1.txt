@@ -1,3 +1,8 @@
 This is my info
 Name fady atef
 ID  41910092
+
+Quote
+"Logic will get you from A to B,
+imagination will take you everywhere."
+-Albert Einstein
